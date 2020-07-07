@@ -3,8 +3,8 @@ exports.up = function (knex, Promise) {
     table.increments().primary();
     table.integer("met_code");
     table.float("met_units");
-    table.string("Category");
-    table.string("Description");
+    table.string("category");
+    table.string("description");
   });
 };
 

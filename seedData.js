@@ -138,7 +138,7 @@ module.exports.data = {
       met_units: 5,
       category: "conditioning exercise",
       description:
-        "army type obstacle course exercise, boot camp training program ",
+        "army type obstacle course exercise, boot camp training program",
     },
     {
       met_code: 2010,
@@ -183,13 +183,13 @@ module.exports.data = {
       met_units: 4.8,
       category: "conditioning exercise",
       description:
-        "bicycling, stationary, 51-89 watts, light-to-moderate effort ",
+        "bicycling, stationary, 51-89 watts, light-to-moderate effort",
     },
     {
       met_code: 2019,
       met_units: 8.5,
       category: "conditioning exercise",
-      description: "bicycling, stationary, RPM/Spin bike class ",
+      description: "bicycling, stationary, RPM/Spin bike class",
     },
     {
       met_code: 2020,
@@ -236,13 +236,13 @@ module.exports.data = {
       met_code: 2045,
       met_units: 3.5,
       category: "conditioning exercise",
-      description: "CurvesTM exercise routines in women ",
+      description: "CurvesTM exercise routines in women",
     },
     {
       met_code: 2048,
       met_units: 5,
       category: "conditioning exercise",
-      description: "Elliptical trainer, moderate effort ",
+      description: "Elliptical trainer, moderate effort",
     },
     {
       met_code: 2050,
@@ -263,7 +263,7 @@ module.exports.data = {
       met_units: 3.5,
       category: "conditioning exercise",
       description:
-        "resistance (weight) training, multiple exercises, 8-15 repetitions at varied resistance ",
+        "resistance (weight) training, multiple exercises, 8-15 repetitions at varied resistance",
     },
     {
       met_code: 2060,
@@ -288,7 +288,7 @@ module.exports.data = {
       met_code: 2064,
       met_units: 3.8,
       category: "conditioning exercise",
-      description: "home exercise, general ",
+      description: "home exercise, general",
     },
     {
       met_code: 2065,
@@ -342,7 +342,7 @@ module.exports.data = {
       met_code: 2085,
       met_units: 11,
       category: "conditioning exercise",
-      description: "slide board exercise, general ",
+      description: "slide board exercise, general",
     },
     {
       met_code: 2090,
@@ -360,7 +360,7 @@ module.exports.data = {
       met_code: 2105,
       met_units: 3,
       category: "conditioning exercise",
-      description: "pilates, general ",
+      description: "pilates, general",
     },
     {
       met_code: 2110,
@@ -372,20 +372,20 @@ module.exports.data = {
       met_code: 2112,
       met_units: 2.8,
       category: "conditioning exercise",
-      description: "therapeutic exercise ball, Fitball exercise ",
+      description: "therapeutic exercise ball, Fitball exercise",
     },
     {
       met_code: 2115,
       met_units: 2.8,
       category: "conditioning exercise",
-      description: "upper body exercise, arm ergometer ",
+      description: "upper body exercise, arm ergometer",
     },
     {
       met_code: 2117,
       met_units: 4.3,
       category: "conditioning exercise",
       description:
-        "upper body exercise, stationary bicycle - Airdyne (arms only) 40 rpm, moderate ",
+        "upper body exercise, stationary bicycle - Airdyne (arms only) 40 rpm, moderate",
     },
     {
       met_code: 2120,
@@ -424,19 +424,19 @@ module.exports.data = {
       met_code: 2150,
       met_units: 2.5,
       category: "conditioning exercise",
-      description: "yoga, Hatha ",
+      description: "yoga, Hatha",
     },
     {
       met_code: 2160,
       met_units: 4,
       category: "conditioning exercise",
-      description: "yoga, Power ",
+      description: "yoga, Power",
     },
     {
       met_code: 2170,
       met_units: 2,
       category: "conditioning exercise",
-      description: "yoga, Nadisodhana ",
+      description: "yoga, Nadisodhana",
     },
     {
       met_code: 2180,
@@ -468,13 +468,13 @@ module.exports.data = {
       met_code: 3012,
       met_units: 6.8,
       category: "dancing",
-      description: "ballet, modern, or jazz, performance, vigorous effort ",
+      description: "ballet, modern, or jazz, performance, vigorous effort",
     },
     {
       met_code: 3014,
       met_units: 4.8,
       category: "dancing",
-      description: "tap ",
+      description: "tap",
     },
     {
       met_code: 3015,
@@ -498,13 +498,13 @@ module.exports.data = {
       met_code: 3018,
       met_units: 5.5,
       category: "dancing",
-      description: "aerobic, step, with 4-inch step ",
+      description: "aerobic, step, with 4-inch step",
     },
     {
       met_code: 3019,
       met_units: 8.5,
       category: "dancing",
-      description: "bench step class, general ",
+      description: "bench step class, general",
     },
     {
       met_code: 3020,
@@ -522,7 +522,7 @@ module.exports.data = {
       met_code: 3022,
       met_units: 10,
       category: "dancing",
-      description: "aerobic dance wearing 10-15 lb weights ",
+      description: "aerobic dance wearing 10-15 lb weights",
     },
     {
       met_code: 3025,
@@ -548,7 +548,7 @@ module.exports.data = {
       met_code: 3038,
       met_units: 11.3,
       category: "dancing",
-      description: "ballroom dancing, competitive, general ",
+      description: "ballroom dancing, competitive, general",
     },
     {
       met_code: 3040,
@@ -580,13 +580,13 @@ module.exports.data = {
       met_code: 4005,
       met_units: 4.5,
       category: "fishing and hunting",
-      description: "fishing, crab fishing ",
+      description: "fishing, crab fishing",
     },
     {
       met_code: 4007,
       met_units: 4,
       category: "fishing and hunting",
-      description: "fishing, catching fish with hands ",
+      description: "fishing, catching fish with hands",
     },
     {
       met_code: 4010,
@@ -628,7 +628,7 @@ module.exports.data = {
       met_code: 4061,
       met_units: 1.8,
       category: "fishing and hunting",
-      description: "fishing, jog or line, standing, general ",
+      description: "fishing, jog or line, standing, general",
     },
     {
       met_code: 4062,
@@ -653,7 +653,7 @@ module.exports.data = {
       met_code: 4065,
       met_units: 2.3,
       category: "fishing and hunting",
-      description: "fishing with a spear, standing ",
+      description: "fishing with a spear, standing",
     },
     {
       met_code: 4070,
@@ -671,19 +671,19 @@ module.exports.data = {
       met_code: 4081,
       met_units: 11.3,
       category: "fishing and hunting",
-      description: "hunting large game, dragging carcass ",
+      description: "hunting large game, dragging carcass",
     },
     {
       met_code: 4083,
       met_units: 4,
       category: "fishing and hunting",
-      description: "hunting large marine animals ",
+      description: "hunting large marine animals",
     },
     {
       met_code: 4085,
       met_units: 2.5,
       category: "fishing and hunting",
-      description: "hunting large game, from a hunting stand, limited walking ",
+      description: "hunting large game, from a hunting stand, limited walking",
     },
     {
       met_code: 4086,
@@ -701,7 +701,7 @@ module.exports.data = {
       met_code: 4095,
       met_units: 3,
       category: "fishing and hunting",
-      description: "hunting, flying fox, squirrel ",
+      description: "hunting, flying fox, squirrel",
     },
     {
       met_code: 4100,
@@ -719,7 +719,7 @@ module.exports.data = {
       met_code: 4115,
       met_units: 3.3,
       category: "fishing and hunting",
-      description: "hunting, birds ",
+      description: "hunting, birds",
     },
     {
       met_code: 4120,
@@ -732,19 +732,19 @@ module.exports.data = {
       met_code: 4123,
       met_units: 3.3,
       category: "fishing and hunting",
-      description: "hunting, pigs, wild ",
+      description: "hunting, pigs, wild",
     },
     {
       met_code: 4124,
       met_units: 2,
       category: "fishing and hunting",
-      description: "trapping game, general ",
+      description: "trapping game, general",
     },
     {
       met_code: 4125,
       met_units: 9.5,
       category: "fishing and hunting",
-      description: "hunting, hiking with hunting gear ",
+      description: "hunting, hiking with hunting gear",
     },
     {
       met_code: 4130,
@@ -756,13 +756,13 @@ module.exports.data = {
       met_code: 4140,
       met_units: 2.3,
       category: "fishing and hunting",
-      description: "rifle exercises, shooting, lying down ",
+      description: "rifle exercises, shooting, lying down",
     },
     {
       met_code: 4145,
       met_units: 2.5,
       category: "fishing and hunting",
-      description: "rifle exercises, shooting, kneeling or standing ",
+      description: "rifle exercises, shooting, kneeling or standing",
     },
     {
       met_code: 5010,
@@ -774,7 +774,7 @@ module.exports.data = {
       met_code: 5011,
       met_units: 2.3,
       category: "home activities",
-      description: "cleaning, sweeping, slow, light effort ",
+      description: "cleaning, sweeping, slow, light effort",
     },
     {
       met_code: 5012,
@@ -812,7 +812,7 @@ module.exports.data = {
       met_units: 4.5,
       category: "home activities",
       description:
-        "polishing floors, standing, walking slowly, using electric polishing machine ",
+        "polishing floors, standing, walking slowly, using electric polishing machine",
     },
     {
       met_code: 5025,
@@ -882,7 +882,7 @@ module.exports.data = {
       met_code: 5044,
       met_units: 3,
       category: "home activities",
-      description: "butchering animals, small ",
+      description: "butchering animals, small",
     },
     {
       met_code: 5045,
@@ -894,7 +894,7 @@ module.exports.data = {
       met_code: 5046,
       met_units: 2.3,
       category: "home activities",
-      description: "cutting and smoking fish, drying fish or meat ",
+      description: "cutting and smoking fish, drying fish or meat",
     },
     {
       met_code: 5048,
@@ -982,7 +982,7 @@ module.exports.data = {
       met_code: 5082,
       met_units: 2.8,
       category: "home activities",
-      description: "sewing with a machine ",
+      description: "sewing with a machine",
     },
     {
       met_code: 5090,
@@ -996,7 +996,7 @@ module.exports.data = {
       met_units: 4,
       category: "home activities",
       description:
-        "laundry, hanging wash, washing clothes by hand, moderate effort ",
+        "laundry, hanging wash, washing clothes by hand, moderate effort",
     },
     {
       met_code: 5095,
@@ -1162,7 +1162,7 @@ module.exports.data = {
       met_code: 5184,
       met_units: 2.5,
       category: "home activities",
-      description: "child care, infant, general ",
+      description: "child care, infant, general",
     },
     {
       met_code: 5185,
@@ -1188,7 +1188,7 @@ module.exports.data = {
       met_code: 5189,
       met_units: 2,
       category: "home activities",
-      description: "breastfeeding, sitting or reclining ",
+      description: "breastfeeding, sitting or reclining",
     },
     {
       met_code: 5190,
@@ -1235,7 +1235,7 @@ module.exports.data = {
       met_code: 5197,
       met_units: 2.3,
       category: "home activities",
-      description: "animal care, household animals, general ",
+      description: "animal care, household animals, general",
     },
     {
       met_code: 5200,
@@ -1286,7 +1286,7 @@ module.exports.data = {
       met_code: 6052,
       met_units: 3.8,
       category: "home repair",
-      description: "carpentry, outside house, building a fence ",
+      description: "carpentry, outside house, building a fence",
     },
     {
       met_code: 6060,
@@ -1304,13 +1304,13 @@ module.exports.data = {
       met_code: 6072,
       met_units: 4,
       category: "home repair",
-      description: "carpentry, home remodeling tasks, moderate effort ",
+      description: "carpentry, home remodeling tasks, moderate effort",
     },
     {
       met_code: 6074,
       met_units: 2.3,
       category: "home repair",
-      description: "carpentry, home remodeling tasks, light effort  ",
+      description: "carpentry, home remodeling tasks, light effort",
     },
     {
       met_code: 6080,
@@ -1346,31 +1346,31 @@ module.exports.data = {
       met_code: 6122,
       met_units: 5,
       category: "home repair",
-      description: "hanging sheet rock inside house ",
+      description: "hanging sheet rock inside house",
     },
     {
       met_code: 6124,
       met_units: 3,
       category: "home repair",
-      description: "hammering nails ",
+      description: "hammering nails",
     },
     {
       met_code: 6126,
       met_units: 2.5,
       category: "home repair",
-      description: "home repair, general, light effort ",
+      description: "home repair, general, light effort",
     },
     {
       met_code: 6127,
       met_units: 4.5,
       category: "home repair",
-      description: "home repair, general, moderate effort ",
+      description: "home repair, general, moderate effort",
     },
     {
       met_code: 6128,
       met_units: 6,
       category: "home repair",
-      description: "home repair, general, vigorous effort ",
+      description: "home repair, general, vigorous effort",
     },
     {
       met_code: 6130,
@@ -1388,7 +1388,7 @@ module.exports.data = {
       met_code: 6144,
       met_units: 3,
       category: "home repair",
-      description: "repairing appliances ",
+      description: "repairing appliances",
     },
     {
       met_code: 6150,
@@ -1412,7 +1412,7 @@ module.exports.data = {
       met_code: 6167,
       met_units: 3,
       category: "home repair",
-      description: "plumbing, general ",
+      description: "plumbing, general",
     },
     {
       met_code: 6170,
@@ -1442,7 +1442,7 @@ module.exports.data = {
       met_code: 6205,
       met_units: 2,
       category: "home repair",
-      description: "sharpening tools ",
+      description: "sharpening tools",
     },
     {
       met_code: 6210,
@@ -1460,7 +1460,7 @@ module.exports.data = {
       met_code: 6225,
       met_units: 2,
       category: "home repair",
-      description: "washing and waxing car ",
+      description: "washing and waxing car",
     },
     {
       met_code: 6230,
@@ -1577,7 +1577,7 @@ module.exports.data = {
       met_units: 3.3,
       category: "lawn and garden",
       description:
-        "carrying, loading or stacking wood, loading/unloading or carrying lumber, light-to-moderate effort ",
+        "carrying, loading or stacking wood, loading/unloading or carrying lumber, light-to-moderate effort",
     },
     {
       met_code: 8010,
@@ -1602,7 +1602,7 @@ module.exports.data = {
       met_code: 8025,
       met_units: 3.5,
       category: "lawn and garden",
-      description: "clearing light brush, thinning garden, moderate effort ",
+      description: "clearing light brush, thinning garden, moderate effort",
     },
     {
       met_code: 8030,
@@ -1636,13 +1636,13 @@ module.exports.data = {
       met_units: 7.8,
       category: "lawn and garden",
       description:
-        "digging, spading, filling garden, composting, vigorous effort ",
+        "digging, spading, filling garden, composting, vigorous effort",
     },
     {
       met_code: 8055,
       met_units: 2.8,
       category: "lawn and garden",
-      description: "driving tractor ",
+      description: "driving tractor",
     },
     {
       met_code: 8057,
@@ -1667,13 +1667,13 @@ module.exports.data = {
       met_code: 8065,
       met_units: 2.3,
       category: "lawn and garden",
-      description: "gardening, using containers, older adults > 60 years ",
+      description: "gardening, using containers, older adults > 60 years",
     },
     {
       met_code: 8070,
       met_units: 4,
       category: "lawn and garden",
-      description: "irrigation channels, opening and closing ports ",
+      description: "irrigation channels, opening and closing ports",
     },
     {
       met_code: 8080,
@@ -1730,7 +1730,7 @@ module.exports.data = {
       met_units: 2,
       category: "lawn and garden",
       description:
-        "planting, potting, transplanting seedlings or plants, light effort ",
+        "planting, potting, transplanting seedlings or plants, light effort",
     },
     {
       met_code: 8140,
@@ -1742,7 +1742,7 @@ module.exports.data = {
       met_code: 8145,
       met_units: 4.3,
       category: "lawn and garden",
-      description: "planting crops or garden, stooping, moderate effort ",
+      description: "planting crops or garden, stooping, moderate effort",
     },
     {
       met_code: 8150,
@@ -1784,13 +1784,13 @@ module.exports.data = {
       met_code: 8192,
       met_units: 5.5,
       category: "lawn and garden",
-      description: "shoveling dirt or mud ",
+      description: "shoveling dirt or mud",
     },
     {
       met_code: 8195,
       met_units: 5.3,
       category: "lawn and garden",
-      description: "shoveling snow, by hand, moderate effort ",
+      description: "shoveling snow, by hand, moderate effort",
     },
     {
       met_code: 8200,
@@ -1834,7 +1834,7 @@ module.exports.data = {
       met_code: 8239,
       met_units: 3.5,
       category: "lawn and garden",
-      description: "weeding, cultivating garden, light-to-moderate effort ",
+      description: "weeding, cultivating garden, light-to-moderate effort",
     },
     {
       met_code: 8240,
@@ -1867,7 +1867,7 @@ module.exports.data = {
       met_units: 4.5,
       category: "lawn and garden",
       description:
-        "picking fruit off trees, gleaning fruits, picking fruits/vegetables, climbing ladder to pick fruit, vigorous effort ",
+        "picking fruit off trees, gleaning fruits, picking fruits/vegetables, climbing ladder to pick fruit, vigorous effort",
     },
     {
       met_code: 8250,
@@ -1886,7 +1886,7 @@ module.exports.data = {
       met_code: 8255,
       met_units: 5.5,
       category: "lawn and garden",
-      description: "wheelbarrow, pushing garden cart or wheelbarrow ",
+      description: "wheelbarrow, pushing garden cart or wheelbarrow",
     },
     {
       met_code: 8260,
@@ -1934,7 +1934,7 @@ module.exports.data = {
       met_code: 9015,
       met_units: 1.5,
       category: "miscellaneous",
-      description: "copying documents, standing ",
+      description: "copying documents, standing",
     },
     {
       met_code: 9020,
@@ -1946,7 +1946,7 @@ module.exports.data = {
       met_code: 9025,
       met_units: 1,
       category: "miscellaneous",
-      description: "laughing, sitting ",
+      description: "laughing, sitting",
     },
     {
       met_code: 9030,
@@ -1964,7 +1964,7 @@ module.exports.data = {
       met_code: 9045,
       met_units: 1,
       category: "miscellaneous",
-      description: "sitting, playing traditional video game, computer game ",
+      description: "sitting, playing traditional video game, computer game",
     },
     {
       met_code: 9050,
@@ -2102,7 +2102,7 @@ module.exports.data = {
       met_code: 10035,
       met_units: 2.5,
       category: "music playing",
-      description: "double bass, standing ",
+      description: "double bass, standing",
     },
     {
       met_code: 10040,
@@ -2138,13 +2138,13 @@ module.exports.data = {
       met_code: 10074,
       met_units: 2,
       category: "music playing",
-      description: "playing musical instruments, general ",
+      description: "playing musical instruments, general",
     },
     {
       met_code: 10077,
       met_units: 2,
       category: "music playing",
-      description: "organ, sitting ",
+      description: "organ, sitting",
     },
     {
       met_code: 10080,
@@ -2194,7 +2194,7 @@ module.exports.data = {
       met_units: 5.5,
       category: "music playing",
       description:
-        "marching band, playing an instrument, walking, brisk pace, general ",
+        "marching band, playing an instrument, walking, brisk pace, general",
     },
     {
       met_code: 10135,
@@ -2206,13 +2206,13 @@ module.exports.data = {
       met_code: 11003,
       met_units: 2.3,
       category: "occupation",
-      description: "active workstation, treadmill desk, walking ",
+      description: "active workstation, treadmill desk, walking",
     },
     {
       met_code: 11006,
       met_units: 3,
       category: "occupation",
-      description: "airline flight attendant ",
+      description: "airline flight attendant",
     },
     {
       met_code: 11010,
@@ -2248,7 +2248,7 @@ module.exports.data = {
       met_code: 11038,
       met_units: 2.5,
       category: "occupation",
-      description: "carpentry, general, light effort ",
+      description: "carpentry, general, light effort",
     },
     {
       met_code: 11040,
@@ -2260,7 +2260,7 @@ module.exports.data = {
       met_code: 11042,
       met_units: 7,
       category: "occupation",
-      description: "carpentry, general, heavy or vigorous effort ",
+      description: "carpentry, general, heavy or vigorous effort",
     },
     {
       met_code: 11050,
@@ -2348,8 +2348,7 @@ module.exports.data = {
       met_code: 11145,
       met_units: 7.8,
       category: "occupation",
-      description:
-        "farming, vigorous effort (e.g., baling hay, cleaning barn) ",
+      description: "farming, vigorous effort (e.g., baling hay, cleaning barn)",
     },
     {
       met_code: 11146,
@@ -2363,14 +2362,14 @@ module.exports.data = {
       met_units: 2,
       category: "occupation",
       description:
-        "farming, light effort (e.g., cleaning animal sheds, preparing animal feed) ",
+        "farming, light effort (e.g., cleaning animal sheds, preparing animal feed)",
     },
     {
       met_code: 11170,
       met_units: 2.8,
       category: "occupation",
       description:
-        "farming, driving tasks (e.g., driving tractor or harvester) ",
+        "farming, driving tasks (e.g., driving tractor or harvester)",
     },
     {
       met_code: 11180,
@@ -2551,7 +2550,7 @@ module.exports.data = {
       met_code: 11413,
       met_units: 3,
       category: "occupation",
-      description: "kitchen maid ",
+      description: "kitchen maid",
     },
     {
       met_code: 11415,
@@ -2618,7 +2617,7 @@ module.exports.data = {
       met_code: 11482,
       met_units: 2.5,
       category: "occupation",
-      description: "masonry, concrete, light effort ",
+      description: "masonry, concrete, light effort",
     },
     {
       met_code: 11485,
@@ -2661,7 +2660,7 @@ module.exports.data = {
       met_code: 11516,
       met_units: 3,
       category: "occupation",
-      description: "plumbing activities ",
+      description: "plumbing activities",
     },
     {
       met_code: 11520,
@@ -3009,7 +3008,7 @@ module.exports.data = {
       met_code: 12029,
       met_units: 6,
       category: "running",
-      description: "Running, 4 mph (15 min/mile) ",
+      description: "Running, 4 mph (15 min/mile)",
     },
     {
       met_code: 12030,
@@ -3081,7 +3080,7 @@ module.exports.data = {
       met_code: 12132,
       met_units: 19,
       category: "running",
-      description: "running, 12 mph (5 min/mile) ",
+      description: "running, 12 mph (5 min/mile)",
     },
     {
       met_code: 12134,
@@ -3093,7 +3092,7 @@ module.exports.data = {
       met_code: 12135,
       met_units: 23,
       category: "running",
-      description: "running, 14 mph (4.3 min/mile) ",
+      description: "running, 14 mph (4.3 min/mile)",
     },
     {
       met_code: 12140,
@@ -3220,7 +3219,7 @@ module.exports.data = {
       met_code: 15000,
       met_units: 5.5,
       category: "sports",
-      description: "Alaska Native Games, Eskimo Olympics, general ",
+      description: "Alaska Native Games, Eskimo Olympics, general",
     },
     {
       met_code: 15010,
@@ -3256,7 +3255,7 @@ module.exports.data = {
       met_code: 15055,
       met_units: 6.5,
       category: "sports",
-      description: "basketball, general ",
+      description: "basketball, general",
     },
     {
       met_code: 15060,
@@ -3274,7 +3273,7 @@ module.exports.data = {
       met_code: 15072,
       met_units: 9.3,
       category: "sports",
-      description: "basketball, drills, practice ",
+      description: "basketball, drills, practice",
     },
     {
       met_code: 15075,
@@ -3298,7 +3297,7 @@ module.exports.data = {
       met_code: 15092,
       met_units: 3.8,
       category: "sports",
-      description: "bowling, indoor, bowling alley ",
+      description: "bowling, indoor, bowling alley",
     },
     {
       met_code: 15100,
@@ -3335,7 +3334,7 @@ module.exports.data = {
       met_code: 15138,
       met_units: 6,
       category: "sports",
-      description: "cheerleading, gymnastic moves, competitive ",
+      description: "cheerleading, gymnastic moves, competitive",
     },
     {
       met_code: 15140,
@@ -3348,7 +3347,7 @@ module.exports.data = {
       met_code: 15142,
       met_units: 8,
       category: "sports",
-      description: "coaching, actively playing sport with players ",
+      description: "coaching, actively playing sport with players",
     },
     {
       met_code: 15150,
@@ -3450,7 +3449,7 @@ module.exports.data = {
       met_code: 15285,
       met_units: 5.3,
       category: "sports",
-      description: "golf, walking, pulling clubs ",
+      description: "golf, walking, pulling clubs",
     },
     {
       met_code: 15290,
@@ -3523,7 +3522,7 @@ module.exports.data = {
       met_units: 4.3,
       category: "sports",
       description:
-        "horse chores, feeding, watering, cleaning stalls, implied walking and lifting loads ",
+        "horse chores, feeding, watering, cleaning stalls, implied walking and lifting loads",
     },
     {
       met_code: 15380,
@@ -3542,7 +3541,7 @@ module.exports.data = {
       met_code: 15395,
       met_units: 7.3,
       category: "sports",
-      description: "horseback riding, canter or gallop ",
+      description: "horseback riding, canter or gallop",
     },
     {
       met_code: 15400,
@@ -3554,7 +3553,7 @@ module.exports.data = {
       met_code: 15402,
       met_units: 9,
       category: "sports",
-      description: "horseback riding, jumping ",
+      description: "horseback riding, jumping",
     },
     {
       met_code: 15408,
@@ -3610,7 +3609,7 @@ module.exports.data = {
       met_code: 15465,
       met_units: 3.3,
       category: "sports",
-      description: "lawn bowling, bocce ball, outdoor ",
+      description: "lawn bowling, bocce ball, outdoor",
     },
     {
       met_code: 15470,
@@ -3660,7 +3659,7 @@ module.exports.data = {
       met_units: 8,
       category: "sports",
       description:
-        "rock or mountain climbing (Taylor Code 470) (Formerly code = 17120) ",
+        "rock or mountain climbing (Taylor Code 470) (Formerly code = 17120)",
     },
     {
       met_code: 15535,
@@ -3673,7 +3672,7 @@ module.exports.data = {
       met_units: 5.8,
       category: "sports",
       description:
-        "rock climbing, ascending or traversing rock, low-to-moderate difficulty ",
+        "rock climbing, ascending or traversing rock, low-to-moderate difficulty",
     },
     {
       met_code: 15540,
@@ -3747,7 +3746,7 @@ module.exports.data = {
       met_code: 15582,
       met_units: 6,
       category: "sports",
-      description: "skateboarding, competitive, vigorous effort ",
+      description: "skateboarding, competitive, vigorous effort",
     },
     {
       met_code: 15590,
@@ -3787,7 +3786,7 @@ module.exports.data = {
       met_code: 15600,
       met_units: 3.5,
       category: "sports",
-      description: "skydiving, base jumping, bungee jumping ",
+      description: "skydiving, base jumping, bungee jumping",
     },
     {
       met_code: 15605,
@@ -3812,7 +3811,7 @@ module.exports.data = {
       met_code: 15625,
       met_units: 4,
       category: "sports",
-      description: "softball, practice ",
+      description: "softball, practice",
     },
     {
       met_code: 15630,
@@ -3831,7 +3830,7 @@ module.exports.data = {
       met_units: 3.3,
       category: "sports",
       description:
-        "sports spectator, very excited, emotional, physically moving  ",
+        "sports spectator, very excited, emotional, physically moving",
     },
     {
       met_code: 15650,
@@ -3843,7 +3842,7 @@ module.exports.data = {
       met_code: 15652,
       met_units: 7.3,
       category: "sports",
-      description: "squash, general ",
+      description: "squash, general",
     },
     {
       met_code: 15660,
@@ -3891,7 +3890,7 @@ module.exports.data = {
       met_code: 15695,
       met_units: 5,
       category: "sports",
-      description: "tennis, hitting balls, non-game play, moderate effort ",
+      description: "tennis, hitting balls, non-game play, moderate effort",
     },
     {
       met_code: 15700,
@@ -3994,7 +3993,7 @@ module.exports.data = {
       met_code: 16035,
       met_units: 6.3,
       category: "transportation",
-      description: "pulling rickshaw ",
+      description: "pulling rickshaw",
     },
     {
       met_code: 16040,
@@ -4013,7 +4012,7 @@ module.exports.data = {
       met_units: 3.5,
       category: "transportation",
       description:
-        "walking for transportation, 2.8-3.2 mph, level, moderate pace, firm surface ",
+        "walking for transportation, 2.8-3.2 mph, level, moderate pace, firm surface",
     },
     {
       met_code: 17010,
@@ -4129,7 +4128,7 @@ module.exports.data = {
       met_units: 5.3,
       category: "walking",
       description:
-        "hiking or walking at a normal pace through fields and hillsides ",
+        "hiking or walking at a normal pace through fields and hillsides",
     },
     {
       met_code: 17085,
@@ -4160,7 +4159,7 @@ module.exports.data = {
       met_code: 17105,
       met_units: 3.8,
       category: "walking",
-      description: "pushing a wheelchair, non-occupational ",
+      description: "pushing a wheelchair, non-occupational",
     },
     {
       met_code: 17110,
@@ -4315,7 +4314,7 @@ module.exports.data = {
       met_code: 17262,
       met_units: 4.5,
       category: "walking",
-      description: "walking, normal pace, plowed field or sand ",
+      description: "walking, normal pace, plowed field or sand",
     },
     {
       met_code: 17270,
@@ -4334,14 +4333,14 @@ module.exports.data = {
       met_units: 4.8,
       category: "walking",
       description:
-        "walking, for exercise, 3.5 to 4 mph, with ski poles, Nordic walking, level, moderate pace ",
+        "walking, for exercise, 3.5 to 4 mph, with ski poles, Nordic walking, level, moderate pace",
     },
     {
       met_code: 17305,
       met_units: 9.5,
       category: "walking",
       description:
-        "walking, for exercise, 5.0 mph, with ski poles, Nordic walking, level, fast pace ",
+        "walking, for exercise, 5.0 mph, with ski poles, Nordic walking, level, fast pace",
     },
     {
       met_code: 17310,
@@ -4354,7 +4353,7 @@ module.exports.data = {
       met_code: 17320,
       met_units: 6,
       category: "walking",
-      description: "walking, backwards, 3.5 mph, level ",
+      description: "walking, backwards, 3.5 mph, level",
     },
     {
       met_code: 17325,
@@ -4372,7 +4371,7 @@ module.exports.data = {
       met_code: 18012,
       met_units: 1.3,
       category: "water activities",
-      description: "boating, power, passenger, light ",
+      description: "boating, power, passenger, light",
     },
     {
       met_code: 18020,
@@ -4552,7 +4551,7 @@ module.exports.data = {
       met_code: 18265,
       met_units: 5.3,
       category: "water activities",
-      description: "swimming, breaststroke, recreational ",
+      description: "swimming, breaststroke, recreational",
     },
     {
       met_code: 18270,
@@ -4686,13 +4685,13 @@ module.exports.data = {
       met_code: 19005,
       met_units: 7.5,
       category: "winter activities",
-      description: "dog sledding, mushing ",
+      description: "dog sledding, mushing",
     },
     {
       met_code: 19006,
       met_units: 2.5,
       category: "winter activities",
-      description: "dog sledding, passenger ",
+      description: "dog sledding, passenger",
     },
     {
       met_code: 19010,
@@ -4704,7 +4703,7 @@ module.exports.data = {
       met_code: 19011,
       met_units: 2,
       category: "winter activities",
-      description: "ice fishing, sitting ",
+      description: "ice fishing, sitting",
     },
     {
       met_code: 19018,
@@ -4786,13 +4785,13 @@ module.exports.data = {
       met_code: 19135,
       met_units: 13.3,
       category: "winter activities",
-      description: "skiing, cross-country, skating ",
+      description: "skiing, cross-country, skating",
     },
     {
       met_code: 19140,
       met_units: 13.5,
       category: "winter activities",
-      description: "skiing, cross-country, biathlon, skating technique ",
+      description: "skiing, cross-country, biathlon, skating technique",
     },
     {
       met_code: 19150,
@@ -5010,7 +5009,7 @@ module.exports.data = {
       met_units: 4.5,
       category: "religious activities",
       description:
-        "Standing, moderate-to-heavy effort, manual labor, lifting ≥ 50 lbs, heavy maintenance",
+        "Standing, moderate-to-heavy effort, manual labor, lifting >= 50 lbs, heavy maintenance",
     },
     {
       met_code: 20100,
